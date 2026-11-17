@@ -1,0 +1,8 @@
+name: Build Geode Mod
+on: [push, workflow_dispatch]
+jobs:
+  build:
+    name: Build Windows
+    uses: geode-sdk/build-geode-mod/.github/workflows/build.yml@main
+    with:
+      platform: win
