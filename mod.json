@@ -1,0 +1,11 @@
+﻿{
+    "geode": "4.0.0",
+    "gd": {
+        "win": "2.2081"
+    },
+    "version": "v1.0.0",
+    "id": "user.autoplaybot",
+    "name": "AutoPlayBot",
+    "developer": "User",
+    "description": "Real-time auto play mod"
+}
